@@ -1,6 +1,7 @@
 
 **Hi there**
 <img src= "https://pa1.narvii.com/6536/5b0a65e65edb780cee3cfdf16aa0e497246b2400_00.gif" width="40"/>
+---
 - <img src= "https://images.emojiterra.com/google/android-11/128px/1f468-1f4bb.png" width="20"/> I’m gustavo
 - 🌱 I’m currently learning Vue.js
 - <img src= "https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/png/iconmonstr-location-28.png&r=0&g=0&b=0" width="20"/> Rio de Janeiro
