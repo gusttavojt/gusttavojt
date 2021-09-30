@@ -1,6 +1,6 @@
 
 **Hi there**
-<img src= "https://pa1.narvii.com/6536/5b0a65e65edb780cee3cfdf16aa0e497246b2400_00.gif" width="40"/>
+<img src="https://c.tenor.com/ZTKZeL_nsqwAAAAi/pepe-sip.gif" width="30" />
 ---
 - <img src= "https://images.emojiterra.com/google/android-11/128px/1f468-1f4bb.png" width="20"/> I’m gustavo
 - 🌱 I’m currently learning Vue.js
