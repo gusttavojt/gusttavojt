@@ -3,7 +3,8 @@
 <img src="https://c.tenor.com/ZTKZeL_nsqwAAAAi/pepe-sip.gif" width="30" />
 ---
 - <img src= "https://images.emojiterra.com/google/android-11/128px/1f468-1f4bb.png" width="20"/> I'm Gustavo, always eager to expand my knowledge in back-end development and tools.
-
+- [LinkedIn](https://www.linkedin.com/in/gustavo-luna-879162290)
+  
 - 🔭 Currently, I'm working on projects with Python
 - 🌱 I'm learning more about databases and web development.
 - 🎮 I love strategy games and FPS.
@@ -15,10 +16,5 @@
   
    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavojt&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
    
-   ## 📊 Minhas Estatísticas no GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavojt&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavojt&layout=compact&theme=radical)
 
   
