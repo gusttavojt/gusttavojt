@@ -2,8 +2,7 @@
 **Hi there**
 <img src="https://c.tenor.com/ZTKZeL_nsqwAAAAi/pepe-sip.gif" width="30" />
 ---
-- <img src= "https://images.emojiterra.com/google/android-11/128px/1f468-1f4bb.png" width="20"/> I'm Gustavo, always eager to expand my knowledge in back-end development and tools.
-- [LinkedIn](https://www.linkedin.com/in/gustavo-luna-879162290)
+- <img src= "https://images.emojiterra.com/google/android-11/128px/1f468-1f4bb.png" width="20"/> I'm Gustavo, always eager to expand my knowledge in back-end development and tools. [LinkedIn](https://www.linkedin.com/in/gustavo-luna-879162290)
   
 - 🔭 Currently, I'm working on projects with Python
 - 🌱 I'm learning more about databases and web development.
