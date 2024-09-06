@@ -13,4 +13,4 @@
    
    ---
   
-![GitHub Snake](.github/workflows/snake.yml)
+![snake gif](https://github.com/gusttavojt/gusttavojt/blob/output/github-contribution-grid-snake.svg)
