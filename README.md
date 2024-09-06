@@ -13,4 +13,4 @@
    
    ---
   
-![GitHub Snake](dist/github-snake.svg)
+![GitHub Snake](.github/workflows/snake.yml)
