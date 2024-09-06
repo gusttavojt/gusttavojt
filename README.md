@@ -13,4 +13,4 @@
    
    ---
   
-![Snake animation](https://github.com/gusttavojt/gusttavojt/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](dist/github-snake.svg)
